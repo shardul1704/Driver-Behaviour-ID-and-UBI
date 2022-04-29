@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/cristiano/Desktop/Accident-Detection-App/DataToCSV/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/home/cristiano/.gradle/caches/transforms-2/files-2.1/006d2ec2acbb9026753499fe9ddd911d/play-services-wallet-10.0.1/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "244",
+                        "endColumns": "99",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}
